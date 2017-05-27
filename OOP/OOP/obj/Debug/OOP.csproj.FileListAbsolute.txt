@@ -1,0 +1,10 @@
+C:\Users\adabusra\Documents\OOP\OOP\OOP\bin\Debug\OOP.exe.config
+C:\Users\adabusra\Documents\OOP\OOP\OOP\bin\Debug\OOP.exe
+C:\Users\adabusra\Documents\OOP\OOP\OOP\bin\Debug\OOP.pdb
+C:\Users\adabusra\Documents\OOP\OOP\OOP\obj\Debug\OOP.csprojResolveAssemblyReference.cache
+C:\Users\adabusra\Documents\OOP\OOP\OOP\obj\Debug\OOP.Form1.resources
+C:\Users\adabusra\Documents\OOP\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+C:\Users\adabusra\Documents\OOP\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.Cache
+C:\Users\adabusra\Documents\OOP\OOP\OOP\obj\Debug\OOP.exe
+C:\Users\adabusra\Documents\OOP\OOP\OOP\obj\Debug\OOP.pdb
+C:\Users\adabusra\Documents\OOP\OOP\OOP\obj\Debug\OOP.Calisanlar.resources
