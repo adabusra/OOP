@@ -36,10 +36,17 @@ namespace OOP
 
             Personel kovulacak = personeller[listBox1.SelectedIndex];
             kovulacak.IstenCikar();
+            
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Personel p = new Personel();
 
         }
     }

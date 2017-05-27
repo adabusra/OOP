@@ -53,7 +53,7 @@ namespace OOP
         }
         //Ramden silinmeden önce yapılması gereken işlemlere desructer da tanımlanır
 
-        ~Personel() // Destructer -Sonsöz
+        ~Personel() // Destructer -Sonsöz (Projeyi aktif olarak çalıştıdıktan hemen önce çalıır))
         {
             System.Windows.Forms.MessageBox.Show("Bayyy");
         }

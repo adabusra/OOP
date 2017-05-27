@@ -1,0 +1,9 @@
+C:\Users\adabusra\Documents\OOP\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\adabusra\Documents\OOP\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\adabusra\Documents\OOP\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\adabusra\Documents\OOP\Encapsulation\obj\Debug\Encapsulation.Form1.resources
+C:\Users\adabusra\Documents\OOP\Encapsulation\obj\Debug\Encapsulation.Properties.Resources.resources
+C:\Users\adabusra\Documents\OOP\Encapsulation\obj\Debug\Encapsulation.csproj.GenerateResource.Cache
+C:\Users\adabusra\Documents\OOP\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\adabusra\Documents\OOP\Encapsulation\obj\Debug\Encapsulation.pdb
+C:\Users\adabusra\Documents\OOP\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
