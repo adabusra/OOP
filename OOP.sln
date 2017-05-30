@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{1B8D7E63-B916-40A9-86F5-64FCCD4D48BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorhism", "Polymorhism\Polymorhism.csproj", "{1B566B66-DEE3-49C4-9392-CFC2A37C05DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1B8D7E63-B916-40A9-86F5-64FCCD4D48BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B8D7E63-B916-40A9-86F5-64FCCD4D48BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B8D7E63-B916-40A9-86F5-64FCCD4D48BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B566B66-DEE3-49C4-9392-CFC2A37C05DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B566B66-DEE3-49C4-9392-CFC2A37C05DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B566B66-DEE3-49C4-9392-CFC2A37C05DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B566B66-DEE3-49C4-9392-CFC2A37C05DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
