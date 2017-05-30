@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorhism", "Polymorhism\Polymorhism.csproj", "{1B566B66-DEE3-49C4-9392-CFC2A37C05DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct-Enum", "Struct-Enum\Struct-Enum.csproj", "{C8058A82-D86D-440F-9A26-CBCD729E4D47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1B566B66-DEE3-49C4-9392-CFC2A37C05DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B566B66-DEE3-49C4-9392-CFC2A37C05DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B566B66-DEE3-49C4-9392-CFC2A37C05DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8058A82-D86D-440F-9A26-CBCD729E4D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8058A82-D86D-440F-9A26-CBCD729E4D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8058A82-D86D-440F-9A26-CBCD729E4D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8058A82-D86D-440F-9A26-CBCD729E4D47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
