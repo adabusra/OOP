@@ -29,7 +29,9 @@ namespace Struct_Enum
             ogr.Dersler.Add(d);
             ogr.Dersler.Add(d2);
             int durum = (int)ogr.Durum;
+            //enumlar int e cast edilebilir.
             OgrenciDurum drm = (OgrenciDurum)100;
+            //int ler enumlara castedilebilir.
             switch (ogr.Durum)
             {
                 case OgrenciDurum.Gecti:
