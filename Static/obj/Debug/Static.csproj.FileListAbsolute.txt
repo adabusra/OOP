@@ -1,0 +1,9 @@
+C:\Users\adabusra\Documents\OOP\Static\bin\Debug\Static.exe.config
+C:\Users\adabusra\Documents\OOP\Static\bin\Debug\Static.exe
+C:\Users\adabusra\Documents\OOP\Static\bin\Debug\Static.pdb
+C:\Users\adabusra\Documents\OOP\Static\obj\Debug\Static.csprojResolveAssemblyReference.cache
+C:\Users\adabusra\Documents\OOP\Static\obj\Debug\Static.Form1.resources
+C:\Users\adabusra\Documents\OOP\Static\obj\Debug\Static.Properties.Resources.resources
+C:\Users\adabusra\Documents\OOP\Static\obj\Debug\Static.csproj.GenerateResource.Cache
+C:\Users\adabusra\Documents\OOP\Static\obj\Debug\Static.exe
+C:\Users\adabusra\Documents\OOP\Static\obj\Debug\Static.pdb

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorhism", "Polymorhism\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct-Enum", "Struct-Enum\Struct-Enum.csproj", "{C8058A82-D86D-440F-9A26-CBCD729E4D47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csproj", "{0FD9E36A-87E7-4F97-9019-D28D53753F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Abstraction\Abstraction.csproj", "{BC8B1091-2BBC-4342-966B-EDB954B2CAF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{C8058A82-D86D-440F-9A26-CBCD729E4D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8058A82-D86D-440F-9A26-CBCD729E4D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8058A82-D86D-440F-9A26-CBCD729E4D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FD9E36A-87E7-4F97-9019-D28D53753F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FD9E36A-87E7-4F97-9019-D28D53753F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FD9E36A-87E7-4F97-9019-D28D53753F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FD9E36A-87E7-4F97-9019-D28D53753F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC8B1091-2BBC-4342-966B-EDB954B2CAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8B1091-2BBC-4342-966B-EDB954B2CAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8B1091-2BBC-4342-966B-EDB954B2CAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8B1091-2BBC-4342-966B-EDB954B2CAF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
