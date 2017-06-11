@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace SinemaOtomasyonu
 {
-    public partial class Form1 : Form
+    public partial class FilmTanimForm : Form
     {
-        public Form1()
+        public FilmTanimForm()
         {
             InitializeComponent();
-        }
-
-        private void tanımlamalarToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-           
         }
     }
 }

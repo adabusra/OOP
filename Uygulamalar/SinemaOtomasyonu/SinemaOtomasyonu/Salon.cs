@@ -10,9 +10,13 @@ namespace SinemaOtomasyonu
     {
         public Salon()
         {
-
+            Koltuklar = new List<Koltuk>();
         }
+
         public string Adi { get; set; }
+
         public string Sube { get; set; }
+
+        public List<Koltuk> Koltuklar { get; set; }
     }
 }
