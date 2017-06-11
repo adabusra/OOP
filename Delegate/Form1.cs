@@ -63,6 +63,7 @@ namespace Delegate
             for(int i=0; i<=1000000; i++)
             {
                 listBox1.Items.Add(i);
+                
             }
         }
 
